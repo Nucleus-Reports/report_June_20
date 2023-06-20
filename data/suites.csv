@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Tue Jun 20 10:44:33 UTC 2023","Tue Jun 20 10:44:33 UTC 2023","2","","21. Forgot password function","","","","2. Reset password",""
-"failed","Tue Jun 20 10:44:32 UTC 2023","Tue Jun 20 10:44:33 UTC 2023","1543","","21. Forgot password function","","","","1. Direct to forgot password page",""
+"skipped","Tue Jun 20 10:48:53 UTC 2023","Tue Jun 20 10:48:53 UTC 2023","2","","21. Forgot password function","","","","2. Reset password",""
+"failed","Tue Jun 20 10:48:52 UTC 2023","Tue Jun 20 10:48:53 UTC 2023","1290","","21. Forgot password function","","","","1. Direct to forgot password page",""
